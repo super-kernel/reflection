@@ -1,0 +1,17 @@
+{
+    "name": "super-kernel/reflector",
+    "description": "The reflector component for super-kernel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SuperKernel\\Reflector\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~8.4.0",
+        "super-kernel/contract": "~1.0",
+        "super-kernel/annotation": "~1.0"
+    }
+}
