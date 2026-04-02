@@ -29,7 +29,7 @@
     "prefer-stable": true,
     "require": {
         "php": "~8.4.0",
-        "super-kernel/attribute": "~1.0.0",
-        "super-kernel/contract": "~1.0.0"
+        "super-kernel/attribute": "dev-main",
+        "super-kernel/contract": "dev-main"
     }
 }
